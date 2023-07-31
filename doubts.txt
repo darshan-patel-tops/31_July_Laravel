@@ -1,0 +1,15 @@
+1) Mutators and accessor    OK
+2) Hard delete and soft deletes  OK
+3) SQL Query date in between P
+4) Sub queries  P
+5) Template Integrtation     P
+6) Auth Files Ok
+7) Packages  P
+8) API crud with postman and rest-api and 3rd party api  P
+9) Ajax jquery crud  P
+10) Restful-api P
+11) JWT Tokens -Zoom Meeting  P
+12) Job/task  Ok
+13) Email  P
+14) cUrl  Ok 
+15) Traits  OK
