@@ -1,8 +1,8 @@
-1) Mutators and accessor    OK
-2) Hard delete and soft deletes  OK
+1) Mutators and accessor    OK  Done  
+2) Hard delete and soft deletes  OK  
 3) SQL Query date in between P
 4) Sub queries  P
-5) Template Integrtation     P
+5) Template Integrtation     P      done
 6) Auth Files Ok
 7) Packages  P
 8) API crud with postman and rest-api and 3rd party api  P
