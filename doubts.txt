@@ -13,3 +13,39 @@
 13) Email  P
 14) cUrl  Ok 
 15) Traits  OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+service provider
+service container
+facade
+orm relationship
+
